@@ -1,0 +1,294 @@
+[
+  {
+    "product_group": "Chicago Nac",
+    "event_id": [
+      "5965B253-6435-E911-80EF-000D3A32101C",
+      "1F7086DA-9728-E911-80EE-000D3A32101C"
+    ],
+    "price_list_id": "0C26AF19-8C3B-E911-80ED-000D3A322222",
+    "product_list": [
+      {
+        "ProductId": "D629F7F1-8D3B-E911-80ED-000D3A322222",
+        "ProductName": "Silver",
+        "Amount": 19.00,
+        "trigger": "silver",
+        "discountAmount": 14.975,
+        "discountQuantity": 2
+      },
+      {
+        "ProductId": "8ABC7DD2-475B-E911-80F1-000D3A32101C",
+        "ProductName": "Bronze",
+        "Amount": 19.00,
+        "trigger": "bronze",
+        "discountAmount": 14.975,
+        "discountQuantity": 2
+      },
+      {
+        "ProductId": "3028D049-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Gold",
+        "Amount": 59.00,
+        "trigger": "gold"
+      },
+      {
+        "ProductId": "CA566B38-B35B-E911-80F1-000D3A32101C",
+        "ProductName": "VIP",
+        "Amount": 199.00,
+        "trigger": "VIP Level"
+      },
+      {
+        "ProductId": "D956D15A-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Platinum",
+        "Amount": 374.00,
+        "trigger": "platinum"
+      },
+      {
+        "ProductId": "47927E70-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Diamond",
+        "Amount": 1997.00,
+        "trigger": "diamond"
+      }
+    ]
+  },
+  {
+    "product_group": "Nashville NAC",
+    "event_id": [
+      "1F7086DA-9728-E911-80EE-000D3A32101C"
+    ],
+    "price_list_id": "0C26AF19-8C3B-E911-80ED-000D3A322222",
+    "product_list": [
+      {
+       " ProductId": "D629F7F1-8D3B-E911-80ED-000D3A322222",
+        "ProductName": "Silver",
+        "Amount": 19.00,
+        "trigger": "silver",
+        "discountAmount": 14.975,
+        "discountQuantity": 2
+      },
+      {
+        "ProductId": "3028D049-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Gold",
+        "Amount": 59.00,
+        "trigger": "gold"
+      },
+      {
+        "ProductId": "D956D15A-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Platinum",
+        "Amount": 399.00,
+        "trigger": "platinum"
+      },
+      {
+        "ProductId": "47927E70-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Diamond",
+        "Amount": 1299.00,
+        "trigger": "diamond"
+      }
+    ]
+  }, 
+  {
+    "product_group": "Kevin O'Leary Toronto",
+    "event_id": [
+      "71684A25-A325-E911-80EE-000D3A32101C",
+      "8FDEE9A5-A325-E911-80EB-000D3A322222",
+      "9D720837-5C18-E911-80EB-000D3A322222",
+      "4DCA433D-5C18-E911-80EB-000D3A322222"
+    ],
+    "price_list_id": "6CF61C01-1A0D-E911-80EB-000D3A322222",
+    "product_list": [
+      {
+        "ProductId": "93B62322-4176-E811-80E5-000D3A322222",
+        "ProductName": "General Admission",
+        "Amount": 9.95,
+        "trigger": "general-admission"
+      },
+      {
+        "ProductId": "15EC78F5-180D-E911-80EB-000D3A322222",
+        "ProductName": "General Admission with Guest",
+        "Amount": 14.95,
+        "trigger": "general-admission-with-guest"
+      },
+      {
+        "ProductId": "73423866-4176-E811-80E8-000D3A32101C",
+        "ProductName": "VIP Ticket",
+        "Amount": 49.95,
+        "trigger": "vip-ticket"
+      },
+      {
+        "ProductId": "F9FC0095-D0CC-E811-80E9-000D3A322222",
+        "ProductName": "VIP Ticket with Guest",
+        "Amount": 69.95,
+        "trigger": "vip-ticket-with-guest"
+      }
+    ]
+  },
+  {
+    "product_group": "Atlant NAC Events",
+    "event_id": [
+      "B20875DE-595D-E911-80EE-000D3A322222"
+    ],
+    "price_list_id": "0C26AF19-8C3B-E911-80ED-000D3A322222",
+    "product_list": [
+      {
+        "ProductId": "8ABC7DD2-475B-E911-80F1-000D3A32101C",
+        "ProductName": "Bronze",
+        "Amount": 19.95,
+        "trigger": "bronze"
+      },
+      {
+        "ProductId": "D629F7F1-8D3B-E911-80ED-000D3A322222",
+        "ProductName": "Silver",
+        "Amount": 49.00,
+        "trigger": "silver"
+      },
+      {
+        "ProductId": "8ABC7DD2-475B-E911-80F1-000D3A32101C",
+        "ProductName": "Bronze",
+        "Amount": 19.00,
+        "trigger": "bronze"
+      },
+      {
+        "ProductId": "3028D049-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Gold - Purchase Gold for the price of silver - LIMITED TIME",
+        "Amount": 49.00,
+        "trigger": "gold"
+      },
+      {
+        "ProductId": "CA566B38-B35B-E911-80F1-000D3A32101C",
+        "ProductName": "VIP - Select 2 tickets for the price of 1",
+        "Amount": 84.5,
+        "trigger": "VIP Level"
+      },
+      {
+        "ProductId": "D956D15A-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Platinum",
+        "Amount": 397.00,
+        "trigger": "platinum"
+      },
+      {
+        "ProductId": "47927E70-8E3B-E911-80ED-000D3A322222",
+        "ProductName": "Diamond",
+        "Amount": 1294.00,
+        "trigger": "diamond"
+      }
+    ]
+  }, 
+  {
+    "product_group": "Josh Altman RE Agent Event",
+    "event_id": [
+      "D7A62DB5-9BA1-E911-80F2-000D3A322222"
+    ],
+    "price_list_id": "74C3810C-E0A8-E911-80F3-000D3A322222",
+    "product_list": [
+      {
+        "ProductId": "93B62322-4176-E811-80E5-000D3A322222",
+        "ProductName": "General Admission",
+        "Amount": 199.00,
+        "trigger": "JARE-GA"
+      },
+      {
+        "ProductId": "73423866-4176-E811-80E8-000D3A32101C",
+        "ProductName": "VIP",
+        "Amount": 499.00,
+        "trigger": "JARE-VIP"
+      }
+    ]
+  },
+  {
+    "product_group": "LA Ascend Events",
+    "event_id": [
+      "ECA1B9CF-E75B-E911-80F1-000D3A32101C"
+    ],
+    "price_list_id": "A4EFC49A-B8AF-E911-80F6-000D3A32101C",
+    "product_list": [
+      {
+        "ProductId": "A617EC46-B9AF-E911-80F6-000D3A32101C",
+        "ProductName": "Bronze Package",
+        "Amount": 9.99,
+        "trigger": "ASCEND-BRONZE"
+      },
+      {
+        "ProductId": "6899644A-BAAF-E911-80F6-000D3A32101C",
+        "ProductName": "Silver Package",
+        "Amount": 29.00,
+        "trigger": "ASCEND-SILVER",
+        "maxQuantity": 20
+      },
+      {
+        "ProductId": "1D857338-BBAF-E911-80F6-000D3A32101C",
+        "ProductName": "Gold Package",
+        "Amount": 49.00,
+        "trigger": "ASCEND-GOLD",
+        "maxQuantity": 20
+      },
+      {
+        "ProductId": "46968B38-0ABE-E911-80F6-000D3A32101C",
+        "ProductName": "Jade Package",
+        "Amount": 99.00,
+        "trigger": "ASCEND-JADE",
+        "maxQuantity": 20
+      },
+      {
+        "ProductId": "30D5828D-BBAF-E911-80F6-000D3A32101C",
+        "ProductName": "VIP Package",
+        "Amount": 149.00,
+        "trigger": "ASCEND-VIP",
+        "maxQuantity": 20
+      },
+      {
+        "ProductId": "74A1FBCA-BBAF-E911-80F6-000D3A32101C",
+        "ProductName": "Platinum Package",
+        "Amount": 399.00,
+        "trigger": "ASCEND-PLATINUM",
+        "maxQuantity": 20
+      },
+      {
+        "ProductId": "D5685C14-BCAF-E911-80F6-000D3A32101C",
+        "ProductName": "Diamond Package",
+        "Amount": 999.00,
+        "trigger": "ASCEND-DIAMOND",
+        "maxQuantity": 20,
+        "discountTier": [
+          {
+            "quantity": 1,
+            "price": 29.00
+          },
+          {
+            "quantity": 2,
+            "price": 29.00
+          },
+          {
+            "quantity": 3,
+            "price": 29.00
+          },
+          {
+            "quantity": 4,
+            "price": 29.00
+          },
+          {
+            "quantity": 5,
+            "price": 29.00
+          },
+          {
+            "quantity": 6,
+            "price": 25.00
+          },
+          {
+            "quantity": 7,
+            "price": 21.00
+          },
+          {
+            "quantity": 8,
+            "price": 19.00
+          },
+          {
+            "quantity": 9,
+            "price": 17.00
+          },
+          {
+            "quantity": 10,
+            "price": 14.9
+          }
+        ]
+      }
+    ]
+  }
+]

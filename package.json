@@ -1,0 +1,50 @@
+{
+  "name": "marketing-library",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "Alex Ulfich <auflcih@response.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "@bugsnag/js": "^5.2.0",
+    "@bugsnag/plugin-vue": "^5.2.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "bootstrap-vue": "^2.0.0-rc.13",
+    "deepmerge": "^3.0.0",
+    "es6-promise-promise": "^1.0.0",
+    "lodash": "^4.17.15",
+    "mapbox-gl": "^0.52.0",
+    "moment": "^2.23.0",
+    "qrcode": "^1.3.3",
+    "v-mask": "^1.3.3",
+    "vue": "^2.5.11",
+    "vue-icon": "^2.1.1",
+    "vue-recaptcha": "^1.2.0",
+    "vue-router": "^3.0.1",
+    "vuelidate": "^0.7.4",
+    "vuex": "^3.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "cross-env": "^5.0.5",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.4",
+    "vue-loader": "^13.0.5",
+    "vue-template-compiler": "^2.4.4",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}

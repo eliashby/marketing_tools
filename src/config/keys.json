@@ -1,0 +1,13 @@
+{
+  "order_api_token": {
+    "staging": "41ef1e1f12d0f3fb37d617622b710ee4ac85d564dbeaa152c9bee2f2e7390ef643a67e5d6e29e3347d80544b07aafd02f9a42d24f76478c8e3bed4fb57fae778",
+    "production": "e8e6a9e418949672beb56c9f49e42ef9d9bcb72cd676afb325fc222730d6051ded0ad1758b390635b292e892f295765c028398da003e4dabc96c94681606811a"
+  },
+  "trigger": {
+    "staging": "SANDBOX-RESP-NEW-REG",
+    "production": "RESP_NEW_REG_181130"
+  },
+  "vendor_token": "IHO",
+  "vendor_key": "487b9fddce58e61180cb000d3a32101c",
+  "merchant_account_id": "BEC7CAAD-CDC5-E811-80EC-000D3A32101C"
+}
