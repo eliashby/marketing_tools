@@ -12,7 +12,7 @@
   "dependencies": {
     "@bugsnag/js": "^5.2.0",
     "@bugsnag/plugin-vue": "^5.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.2.1",
     "bootstrap-vue": "^2.0.0-rc.13",
     "deepmerge": "^3.0.0",
